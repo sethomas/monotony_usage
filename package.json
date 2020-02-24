@@ -1,0 +1,16 @@
+{
+  "name": "monotony-default-app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "monotony start",
+    "build": "monotony build"
+  },
+  "author": "Seth Thomas",
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "monotony": "^1.0.3",
+    "object-path": "^0.11.4"
+  }
+}
